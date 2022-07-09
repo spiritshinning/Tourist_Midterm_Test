@@ -1,0 +1,57 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "thumb" , "abstract" , "p" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vietravel_Airlines_3x1_ratio.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vietravel Airlines (full name in Vietnamese: Công ty TNHH hàng không Lữ hành Việt Nam, or Vietnam Travel Airlines Co., Ltd in English) is an Asia leading travel airline owned by the Vietravel Holdings, registered in Huế City, Thừa Thiên - Huế Province, Central Vietnam. The carrier started operations on December 26, 2020.Vietravel Airlines was invested and established with a chartered capital of VNĐ 700 billion, 100% of which is owned by Vietravel Holding.On October 29, 2020, The Ministry of Transport issued the operation permit to Vietravel Airlines. The airline received its first Airbus A321 aircraft on December 5, 2020"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vietravel_Airlines ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/VietJet_Air_logo.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "VietJet Aviation Joint Stock Company (Vietnamese: Công ty Cổ phần Hàng không VietJet), trading as VietJet Air or Vietjet, is an international low-cost airline from Vietnam. It was the first privately owned new-age airline to be established in Vietnam, being granted its initial approval to operate by the Vietnamese Minister of Finance in November 2007. As of its launch in December 2011, it became the second private airline to offer domestic service in Vietnam, as well as the fifth airline overall to offer civil domestic flights. VietJet Air is owned by Sovico Holdings, HDBank, other organisational investors, and individual stakeholders."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:VietJet_Air ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bamboo_Airways_Logo_QH-BAV.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bamboo Airways JSC, operating as Bamboo Airways, is a Vietnamese leisure airline owned by the FLC Group, registered in Quy Nhơn, Vietnam, with a head office in Cầu Giấy District, Hanoi. Founded in 2017, the airline launched operations on 16 January 2019. It operates a mixed fleet of narrowbody and widebody aircraft, and has hubs at Noi Bai International Airport and Tan Son Nhat International Airport."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bamboo_Airways ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_Airlines_logo_2015.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vietnam Airlines (Vietnamese: Hãng Hàng không Quốc gia Việt Nam, lit. 'Vietnam National Airlines') is the flag carrier of Vietnam. The airline was founded in 1956 and later established as a state-owned enterprise in April 1989. Vietnam Airlines is headquartered in Long Biên District, Hanoi, with hubs at Noi Bai International Airport and Tan Son Nhat International Airport. The airline flies to 64 destinations in 17 countries, excluding codeshared services."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vietnam_Airlines ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Pacific_Airlines_(_BL_-_PIC_)_Logo.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Pacific Airlines Joint Stock Aviation Company (operating as Pacific Airlines) is a low-cost airline headquartered in Tan Binh District, Ho Chi Minh City, Vietnam. With its hub at Tan Son Nhat International Airport, Ho Chi Minh City, it operates scheduled domestic and international services along with charter flights. From 2008 to 2020, it was known as Jetstar Pacific Airlines as part of Jetstar airlines."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Pacific_Airlines ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .

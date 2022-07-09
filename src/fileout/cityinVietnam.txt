@@ -1,0 +1,36 @@
+http://dbpedia.org/resource/Coca-Cola_SoundFest
+Coca-Cola and Samsung Galaxy Y SoundFest (referred as Coca-Cola SoundFest on the official website or SoundFest Vietnam on the official Facebook) is a music festival first held in Ho Chi Minh City, Vietnam on April 14, 2012. SoundFest has been the largest music festival in Vietnam in terms of the line-up artists as well as the duration time. The 2012 event was sponsored by Coca-Cola and Samsung.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Entrance_of_CocaCola_SoundFest.jpg?width=300
+
+http://dbpedia.org/resource/Mid-Autumn_Festival
+The Mid-Autumn Festival, also known as the Moon Festival or Mooncake Festival, is a traditional festival celebrated in mainland China, Taiwan, Hong Kong, Macau, and Vietnam, as well as by overseas Chinese and Vietnamese communities. Similar holidays are celebrated in Japan (Tsukimi), Korea (Chuseok), and throughout Southeast Asia.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Mid-Autumn_Festival-beijing.jpg?width=300
+
+http://dbpedia.org/resource/Gióng_Festival
+Gióng Festival (Vietnamese: Hội Gióng) is a traditional festival which is celebrated annually in many parts of Hanoi to honour the mythical hero, Thánh Gióng \"Saint Giong,\" who is credited with defending the country against foreign enemies. The festival was listed on the UNESCO List of the Intangible Cultural Heritage.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Hội_Gióng1.jpg?width=300
+
+http://dbpedia.org/resource/Tết
+Tết ([tet˧˥]), short for Tết Nguyên Đán (Hán-Nôm: 節元旦), Spring Festival, Lunar New Year, or Vietnamese Lunar New Year is the most important celebration in Vietnamese culture. The colloquial term \"Tết\" is a shortened form of Tết Nguyên Đán, with Sino-Vietnamese origins meaning \"Festival of the First Morning of the First Day\". Tết celebrates the arrival of spring based on the Vietnamese calendar, which usually has the date falling in January or February in the Gregorian calendar.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Thương_xá_TAX,_Tết_2012.jpg?width=300
+
+http://dbpedia.org/resource/Dongzhi_Festival
+The Dōngzhì Festival or Winter Solstice Festival (Chinese: 冬至; pinyin: Dōngzhì; lit. 'winter's extreme') is one of the most important Chinese festivals celebrated by the Chinese, Taiwanese, Japanese, Koreans, and Vietnamese during the Dongzhi solar term (winter solstice), some day between December 21 to December 23.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/汤圆_Cooked_Tang_Yuan_(329781165).jpg?width=300
+
+http://dbpedia.org/resource/Cold_Food_Festival
+The Cold Food or Hanshi Festival is a traditional Chinese holiday which developed from the local commemoration of the death of the Jin nobleman Jie Zitui in the 7th century BC under the Zhou dynasty, into an occasion across East Asia for the commemoration and veneration of ancestors by the 7th-century Tang dynasty. Its name derives from the tradition of avoiding the lighting of any kind of fire, even for the preparation of food. This practice originally occurred at midwinter for as long as a month, but the hardship this involved led to repeated attempts to ban its observance out of concern for its practitioners. By the end of the Three Kingdoms Period (3rd century), it was limited to three days in the spring around the Qingming solar term. Under the Tang, ancestral observance was limited t@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Mianshan.jpg?width=300
+
+http://dbpedia.org/resource/Chinese_New_Year's_Eve
+Chinese New Year's Eve or Lunar New Year's Eve is the day before the Chinese New Year. Celebrating Chinese New Year’s Eve has always been a family matter in China, it is the reunion day for every Chinese family. It has evolved over a long period of time. The origin of Chinese New Year’s Eve can be traced back to 3500 years ago.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Red_lanterns_on_display_during_Chinese_New_Year_in_San_Francisco.jpg?width=300
+
+http://dbpedia.org/resource/Songkran
+Songkran is a term derived from the Sanskrit word, saṅkrānti (or, more specifically, meṣa saṅkrānti) and used to refer to the traditional New Year celebrated in Thailand, Laos, Cambodia, Myanmar, Sri Lanka, parts of northeast India, parts of Vietnam and Xishuangbanna, China. It begins when the sun transits the constellation of Aries, the first astrological sign in the Zodiac, as reckoned by sidereal astrology. It is related to the equivalent Hindu calendar-based New Year festivals in most parts of South Asia which are collectively referred to as Mesha Sankranti.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Songkrant_Khmer.jpg?width=300
+
+http://dbpedia.org/resource/Dalat_Flower_Festival
+Dalat Flower Festival (Vietnamese: Festival Hoa Đà Lạt) is a cultural festival which takes place every other year in Đà Lạt city, Lâm Đồng, Vietnam and some other localities in Lâm Đồng Province. The festival is held with the purpose of exhibiting flowers, vegetables and ornamental plants from the local as well as other regions within the country and many other countries in the world in order to attract visitors to come to Đà Lạt, promote economic development of the city. Dalat Flower Festival is also an activity honoring the value of flowers and floriculture, calling for investment in Đà Lạt flower industry as well as promoting a positive image of the city, the culture and the people of Đà Lạt.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/LOGO_FESTIVAL_HOA_ĐÀ_LẠT.png?width=300
+

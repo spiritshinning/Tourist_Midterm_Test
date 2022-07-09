@@ -1,0 +1,307 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "abstract" , "p" , "thumb" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vinh_International_Airport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Vinh International Airport (IATA: VII, ICAO: VVVH) (Vietnamese: Sân bay quốc tế Vinh) is located in Vinh city of Nghệ An Province in northern Vietnam. It is a mixed military/civil airport. It used to be one of the two major military airbases in Vietnam besides Gia Lam Airbase in Hanoi. During 2002–2015, the airport saw the annual increase of passengers of 43.89%, the highest rate out of all airports in Vietnam. The airport served 1.8 million passengers in 2018."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Vinh_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Tho_Xuan_airport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thọ Xuân Airport, formerly Sao Vàng Airport (Vietnamese: Sân bay Sao Vàng, Vietnamese: Sân bay Thọ Xuân) (also known as Thanh Hoá Air Base or Bái Thượng Air Base), is an airport located in Sao Vàng town in Thọ Xuân District, Thanh Hóa Province, 45 km northwest of the provincial capital Thanh Hóa. The airport is currently operated by Vietnam People's Air Force (VPAF). This airport handled 90,000 passengers in 2013, 160,000 passengers in 2014 and is estimated to serve 550,000 passengers in 2015, an increase of more than 300%"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tho_Xuan_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Insignia_of_the_Vietnam_People's_Army_Air_Defence_-_Air_Force.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bien Hoa Air Base (Vietnamese: Sân bay Biên Hòa) is a Vietnam People's Air Force (VPAF) military airfield located in South-Central southern Vietnam about 25 km (16 mi) from Ho Chi Minh City, across the Dong Nai river in the northern ward of Tân Phong, and within the city of Biên Hòa within Đồng Nai Province. The boomburb city is densely populated and rings the base, despite significant levels of agent orange toxins simply left there for decades. The base is scheduled to begin cleanup by 2019."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bien_Hoa_Air_Base ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Airplane_silhouette.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "An Giang Airport is a planned airport in An Giang Province, Mekong Delta, southern VietnamAccording to the master plan, total cost is estimated around $64 million and will be invested in phases, the first phase will be constructed from 2011 to 2020. The airport will be located in commune of Cần Đăng, Chau Thanh District, An Giang Province. The airport will cover 235 ha, of which the civil airport area will occupy 34.2 ha while 31.2 ha will be allocated for a military airport area and 169 ha for other purposes."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:An_Giang_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Luscombe_Airfield,_July_1968.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Luscombe Airfield was an airfield at Nui Dat, Phước Tuy province, South Vietnam (now in Bà Rịa–Vũng Tàu province, Vietnam). The airfield was built by 1 Field Squadron, Royal Australian Engineers for the 1st Australian Task Force at Nui Dat. The airfield was opened on 5 December 1966 and named in honour of Captain Bryan Luscombe, who had been killed in action during the Korean War on 5 June 1952."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Luscombe_Airfield ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/DHAirport3.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Dong Hoi Airport (IATA: VDH, ICAO: VVDH) (Vietnamese: Cảng hàng không Đồng Hới or Sân bay Đồng Hới) is an airport located in Loc Ninh commune, 6 km north of Đồng Hới city, capital of Quảng Bình Province, in North Central Coast of Vietnam, about 500 km South-east of Hanoi by road. The facilities cover 173 ha, on a sandy area, by the coast of South China Sea. The runway approaches near the seashore and nearly parallel to the Highway 1A. The airport, like all civil airports in Vietnam, is owned and operated by Airports Corporation of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Dong_Hoi_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/San_bay_Phu_Bai_2013.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phu Bai International Airport (IATA: HUI, ICAO: VVPB) (Vietnamese: Sân bay Quốc tế Phú Bài) is located just south of the central city of Huế, former capital of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phu_Bai_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/PhuQuocAirport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phu Quoc Airport (IATA: PQC, ICAO: VVPQ) (Vietnamese: Sân bay Phú Quốc), also known as Duong Dong Airport (Vietnamese: Sân bay Dương Đông), was an airport located in Dương Đông town, Phú Quốc, Kiên Giang Province, Vietnam. The distance to other airports was 300 km from Tan Son Nhat International Airport (Ho Chi Minh City), 130 km from Rạch Giá, 190 km from Cần Thơ, 200 km from Cà Mau and 540 km from Lien Khuong. On December 2, 2012, Phu Quoc Airport was closed and replaced by the new Phu Quoc International Airport"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Duong_Dong_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Nha_Ga_HK_CHKQT_Can_Tho_2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Can Tho International Airport (IATA: VCA, ICAO: VVCT) (Vietnamese: Sân bay Quốc tế Cần Thơ), formerly Trà Nóc Airport is an airport located in Can Tho in Mekong Delta region of Vietnam. The airport was inaugurated on January 1, 2011 and received US$150 million to build on 20,750 square metres (223,400 sq ft) of land. It aimed to be able to process up to 5 million passengers a year. It will serve air travel in the region, boost Mekong Delta's economy, improving defence, security and international integration."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Can_Tho_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cam_Ly_Airport_07.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cam Ly Airport (IATA: N/A, ICAO: VVCL) (Vietnamese: Sân bay Cam Ly) is a small abandoned airport outside of Da Lat in Lâm Đồng Province in the Central Highlands region of Vietnam. It is the former site of Vietnamese National Military Academy. It was mainly used for military purposes and also served small aircraft including sport airplanes and helicopters."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cam_Ly_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cam_Ranh_International_Terminal.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cam Ranh International Airport (IATA: CXR, ICAO: VVCR) (Vietnamese: Sân bay Quốc tế Cam Ranh) is located on Cam Ranh Bay in Cam Ranh, a town in Khánh Hòa Province in Vietnam. It serves the city of Nha Trang, which is 30 km (16 NM) from the airport.This airport handled 9,747,172 passengers in 2019, making it the fourth busiest airport in Vietnam, after the ones in Ho Chi Minh City, Hanoi and Da Nang, and one of the fastest growing airports in the country."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cam_Ranh_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/PhuCatAirport_newterminal.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phu Cat Airport (IATA: UIH, ICAO: VVPC) (Vietnamese: Sân bay Phù Cát) is the airport serving Qui Nhơn, Vietnam. It is in Phù Cát District between the towns of and Đập Đá, around 30 kilometres (19 mi) northwest of Qui Nhơn within Bình Định Province along the South Central Coast of Vietnam. As well as being a commercial airport, Phu Cat is also used by the Vietnamese Air Force (Khong Quan Nhan Dan Viet Nam). Phu Cat Airport is the hub of a new Vietnamese carrier Bamboo Airways.Phu Cat Airport handled 1.5 million passengers in 2017."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phu_Cat_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/VVDO_Official_logo.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Van Don International Airport or Ha Long Airport (Vietnamese: Sân bay quốc tế Vân Đồn) (IATA: VDO, ICAO: VVVD), is an airport in Vân Đồn District, Quảng Ninh Province, Vietnam, home to World Heritage Ha Long Bay. It is located about 50 km (31 mi) away from Hạ Long and 20 km (12 mi) from Cẩm Phả. It is the first private airport in Vietnam, built and operated by Sun Group."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Van_Don_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Lien_Khuong_Airport_01.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Lien Khuong Airport (IATA: DLI, ICAO: VVDL) (Vietnamese: Cảng hàng không Liên Khương) is an airport located in Đức Trọng District, about 30 km south of Da Lat, Lâm Đồng Province. It is the largest among 4 airports in the Central Highlands region of Vietnam. The major reconstruction in order to handle bigger aircraft was completed in December 2009.This airport handled 1,690,000 passengers in 2019, an increase of 18.3% against that of 2014."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Lien_Khuong_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cảng_hàng_không_côn_đảo.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Côn Đảo Airport or Côn Sơn Airport (IATA: VCS, ICAO: VVCS) (Vietnamese: Sân bay Côn Đảo or Cảng hàng không Côn Đảo) is located on Côn Sơn Island, the largest island of Côn Đảo archipelago off the coast of Bà Rịa–Vũng Tàu province, Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Con_Dao_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/French_C-47s_at_Haiphong_in_1954.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Do Son Airfield is a disused military airfield in Đồ Sơn, Vietnam. It was constructed during the French colonial period and was used by the French Air Force during the First Indochina War."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Do_Son_Airfield ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/CamauAirport3.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cà Mau Airport (IATA: CAH, ICAO: VVCM) (Vietnamese: Sân bay Cà Mau) is a small airport in Cà Mau Province, the most southern part of Vietnam.The airport is currently served by Vietnam Aviation Service Company (VASCO) with flight to Ho Chi Minh City (Tan Son Nhat International Airport, SGN).The coordinates are: 105°10'46\" E and 09°10'32\" N."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cà_Mau_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Kien_An_Airport_OSM_map.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Kien An Airport (Vietnamese language: Sân bay Kiến An) is a military airport, a standby airport for Cat Bi Airport in Haiphong, northern Vietnam. The single runway is 2,400 m, concrete surface. Its ICAO code is VV03. Kien An Airport is located in Kiến An District, Hải Phòng, 10 km from Cat Bi Airport to the west."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Kien_An_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/TIA-logo.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tân Sơn Nhất International Airport (IATA: SGN, ICAO: VVTS) (Vietnamese: Sân bay quốc tế Tân Sơn Nhất or Cảng hàng không quốc tế Tân Sơn Nhất) is the busiest airport in Vietnam with 32.5 million passengers in 2016 and 38.5 million passengers in 2018. It serves Ho Chi Minh City as well as the rest of southeastern Vietnam. As of January 2017, it had a total capacity of only 25 million passengers, which has caused constant congestion and sparked debate for expanding or building a new airport. The airport's IATA code, SGN, is derived from the city's former name of Saigon. It was the 25th busiest airport in the world in 2020."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tan_Son_Nhat_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Gia_Lam_Airfield_1967.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Gia Lam Airport (ICAO: VVGL) (Vietnamese: Sân bay Gia Lâm) is an airport in Hanoi, Vietnam, located in Long Biên District, on the eastern bank of the Red River. It is primarily a military field, used by the Vietnam People's Air Force (VPAF), with MiG-21 fighters and Kamov Ka-28 helicopters stored in revetments. The airfield was inaugurated in 1936, before the Japanese occupation of French Indochina. The airport is currently used for military training activities, as well as for chartered helicopter taxi flights for tourists visiting nearby attractions such as Ha Long Bay. There are plans to convert Gia Lam to a civilian airport, serving short flights to and from locations in Northern Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Gia_Lam_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Departure_CatBi.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Cat Bi International Airport (IATA: HPH, ICAO: VVCI) (Vietnamese: Cảng hàng không quốc tế Cát Bi a.k.a. Vietnamese: Sân bay Quốc tế Cát Bi) is an international airport located in Hai Phong, Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Cat_Bi_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Dien_Bien_Phu_Airport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Dien Bien Phu Airport (IATA: DIN, ICAO: VVDB) (Vietnamese: Sân Bay Điện Biên Phủ) is located at Điện Biên Phủ in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Điện_Biên_Phủ_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_Air_Force_(south)_roundel.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tan Son Nhut Air Base (Vietnamese: Căn cứ không quân Tân Sơn Nhứt) (1955–1975) was a Republic of Vietnam Air Force (RVNAF) facility. It was located near the city of Saigon in southern Vietnam. The United States used it as a major base during the Vietnam War (1959–1975), stationing Army, Air Force, Navy, and Marine units there. Following the Fall of Saigon, it was taken over as a Vietnam People's Air Force (VPAF) facility and remains in use today. Tan Son Nhat International Airport, (IATA: SGN, ICAO: VVTS) has been a major Vietnamese civil airport since the 1920s."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tan_Son_Nhut_Air_Base ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Buon_Ma_Thuot_airport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Buon Ma Thuot Airport (IATA: BMV, ICAO: VVBM) (Vietnamese: Sân bay Buôn Ma Thuột) is a public airport in Vietnam. The airport is located near the provincial capital Buon Ma Thuot in Đắk Lắk Province. Another name for this airport is Phung-Duc Airport. It has one functional runway. A second incomplete runway (marked with a faded 27 R) is not in use. Two aprons are located on the south side of the airport with buildings that appeared to be used for aircraft storage. A barracks-like camp is located to the north side of the airport. This airport handled 860,000 passenger in 2016."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Buon_Ma_Thuot_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bach_Mai_Airfield_1967.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bach Mai Airfield (Vietnamese: Sân bay Bach Mai) is a disused military airport in Thanh Xuan District, Hanoi, Vietnam, located along modern-day Le Trong Tan street. It was constructed by the French in 1917 and used by French forces until 1954; along with Gia Lam Airbase, it was one of the major logistics bases supporting French operations at Dien Bien Phu. After 1954, it was used by the Vietnamese People's Air Force and served as their air defense command and control center during the Second Indochina War, playing a part in the Cambodian–Vietnamese War as well. It is now the site of the Vietnam People's Air Force Museum, where a number of period military aircraft are on display."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bach_Mai_Airfield ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/DAD_new_terminal_2012_01.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Da Nang International Airport (IATA: DAD, ICAO: VVDN) is located in Da Nang, the largest city in central Vietnam. It is the third international airport in the country, besides Noi Bai International Airport (Hanoi) and Tan Son Nhat International Airport (Ho Chi Minh City), and is an important gateway to access central Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Da_Nang_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Pleiku_Airport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Pleiku Airport (IATA: PXU, ICAO: VVPK) (Vietnamese: Sân bay Pleiku) is a regional airport located near the city of Pleiku within Gia Lai Province in southern Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Pleiku_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chu_Lai_New_Airport_arrival_hall.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Chu Lai Airport (IATA: VCL, ICAO: VVCA) (Vietnamese: Sân bay Chu Lai) is an airport in Chu Lai, Vietnam. It is near Tam Kỳ city, the largest city in Quảng Nam province. The airport is located in the , Núi Thành District. As of 2008, Chu Lai Airport is the largest airfield in Vietnam in terms of area, covering 30 km2. The runway is 3050 m long. To facilitate the travel arrangement to two major towns in the neighborhoods, free shuttle bus services are provided from and to the airport for Tam Kỳ city and Quảng Ngãi city."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Chu_Lai_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Phu_Quoc_International_Airport.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phu Quoc International Airport (Vietnamese: Sân bay quốc tế Phú Quốc or Cảng hàng không quốc tế Phú Quốc) (IATA: PQC, ICAO: VVPQ) is an international airport that was completed in 2012 on Phú Quốc Island, in southern Vietnam. The airport covers nearly 900ha in Duong To village, Phú Quốc city, Kiên Giang Province having been built at a cost of around VND 16.2 trillion (US$810 million) and is planned to be built in phases. The airport is 10 km from the previous Phu Quoc Airport, which it replaced.The airport was initially able to handle about 2.5 million passengers per annum, and the maximum capacity will be 7 million passengers per annum, with international destinations expected to include Singapore and Sihanoukville International Airport.The airport has a single 3000m runway, capable of ha"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phu_Quoc_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/NIA_Logo.png?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Nội Bài International Airport (IATA: HAN, ICAO: VVNB) (Vietnamese: Sân bay quốc tế Nội Bài) in Hanoi, the capital of Vietnam, is the largest airport in Vietnam in terms of total capacity. It is also the largest airport in the country for cargo transport and the second busiest airport for passenger traffic, after Tan Son Nhat International Airport. It is currently the main airport serving Hanoi, replacing the role of Gia Lam Airport. The airport consists of two passenger terminals. Terminal 1 serves domestic flights, and the newly built Terminal 2 (inaugurated on 4 January 2015) serves all international flights to and from Hanoi. The airport is currently the main hub of the flag carrier Vietnam Airlines, and budget carriers Bamboo Airways, Pacific Airlines and Vietjet Air."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Noi_Bai_International_Airport ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .

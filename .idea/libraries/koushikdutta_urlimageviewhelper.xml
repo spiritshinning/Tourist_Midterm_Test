@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="koushikdutta.urlimageviewhelper" type="repository">
+    <properties maven-id="com.koushikdutta.urlimageviewhelper:urlimageviewhelper:1.0.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/urlimageviewhelper-1.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

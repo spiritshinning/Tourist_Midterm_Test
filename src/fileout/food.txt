@@ -1,0 +1,175 @@
+http://dbpedia.org/resource/Bánh
+In Vietnamese, the term bánh (Hanoi: [ɓaʲŋ̟˧˥] or Saigon: [ɓan˧˥]) translates loosely as \"cake\" or \"bread\", but refers to a wide variety of prepared foods that can easily be eaten by hands or chopsticks. With the addition of qualifying adjectives, bánh refers to a wide variety of sweet or savoury, distinct cakes, buns, pastries, sandwiches, and other food items, which may be cooked by steaming, baking, frying, deep-frying, or boiling. Foods made from wheat flour or rice flour are generally called bánh, but the term may also refer to certain varieties of noodle and fish cake dishes, such as bánh canh and bánh hỏi.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bánh_bèo,_bột_lọc,_nem_chua.jpg?width=300
+
+http://dbpedia.org/resource/Kho_(cooking_technique)
+Kho (meaning \"to braise\", \"to stew\", or \"to simmer\") or khor (Khmer: ខ) is a cooking technique in Vietnamese and Cambodian cuisine, where a protein source such as fish, shrimp, poultry, pork, beef, or fried tofu is braised on low heat in a mixture of fish sauce, sugar, and water or a water substitute such as young coconut juice. The resulting dish is salty and savory, and meant to be eaten with rice noodles, baguette, or steamed rice.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bo_Kho.jpg?width=300
+
+http://dbpedia.org/resource/Cao_lầu
+Cao lầu is a regional Vietnamese noodle dish, from the city of Hội An, in central Vietnam's Quảng Nam Province. It typically consists of pork and greens on a bed of rice noodles made from rice which has been soaked in lye water, giving them a characteristic texture and colour that sets the dish apart from other Vietnamese noodle dishes, including others from the same region, such as mì Quảng.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Cao_lầu.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_lá
+Bánh lá (/bǎɲ lǎ/), literally meaning \"leaf cake\", is a category of bánh, or Vietnamese cakes, that consist of a parcel of a variety of rice stuffed with some fillings and wrapped in a leaf or leaves.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banh_te_My_Duc.png?width=300
+
+http://dbpedia.org/resource/Coconut_candy
+Coconut candy refer to various candies made with coconut or coconut flavorings. In Vietnamese cuisine, kẹo dừa coconut candy is most commonly produced in Bến Tre province, Vietnam with coconut milk and coconut cream. Sauerkraut candy is made with grated coconut. Grated coconut is often used in various chocolate confections.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Keodua.jpg?width=300
+
+http://dbpedia.org/resource/Bun_cha
+Bún chả (Vietnamese: [ɓǔn ca᷉ː]) is a Vietnamese dish of grilled pork and noodle, which is thought to have originated from Hanoi, Vietnam. Bún chả is served with grilled fatty pork (chả) over a plate of white rice noodle (bún) and herbs with a side dish of dipping sauce. The dish was described in 1959 by Vietnamese food writer Vu Bang (1913–1984), who described Hanoi as a town \"transfixed by bún chả.\" Hanoi's first bún chả restaurant was on Gia Ngư, Hoàn Kiếm District, in Hanoi's Old Quarter.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bún_Chả.jpg?width=300
+
+http://dbpedia.org/resource/Sườn_nướng
+Sườn nướng (lit. 'grilled ribs') is Vietnamese marinated charcoal-grilled pork chop.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Sườn_nướng.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_tẻ
+Bánh tẻ (literally \"rice cakes\" in Vietnamese; also called bánh răng bừa) is a variety of small steamed rice cake in Vietnamese cuisine. It is a traditional variety of bánh from the Red River Delta region of northern Vietnam. Bánh tẻ are made of rice flour, wrapped with Lá dong leaves into a long, thin cylindrical shape, and boiled thoroughly. Bánh tẻ is considered one of the most typical dishes of Hà Tây Province, located near Hanoi, although it may also be found in other parts of the country. The flavors and ingredients of bánh tẻ vary from region to region.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banh_te_My_Duc.png?width=300
+
+http://dbpedia.org/resource/Bánh_patê_sô
+Bánh patê sô (Vietnamese: [ɓǎjŋ̟ paː te ʂo], \"hot pastry pie\"), also known as pâté chaud (French pronunciation: ​[pate ʃo]), is a Vietnamese savory puff pastry. The pastry is made of a light layered and flaky exterior with a meat filling. Traditionally, the filling consists of ground pork but chicken and beef are also commonly used now. This pastry is French-inspired but is now commonly found in bakeries in both Vietnam and the diaspora, much like the Haitian patty.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Pate_Chaud.jpg?width=300
+
+http://dbpedia.org/resource/Chè_bà_ba
+Chè bà ba is a Vietnamese dessert with a coconut milk soup base and square pieces of taro, cassava and khoai lang bí, a kind of long sweet potato with red skin and yellow flesh. The dish commonly includes pieces of tapioca, and the dish is typically eaten warm, but can also be eaten cold.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Chè_bà_ba.jpg?width=300
+
+http://dbpedia.org/resource/Kẹo_dừa
+Kẹo dừa is a Vietnamese cuisine coconut candy most commonly produced in Bến Tre province, Vietnam, with coconut milk and coconut cream. The Ben Tre Province is nicknamed by Vietnamese as the \"Land of Coconut\" (Xu Dua). The Vietnamese term for coconut candy is \"kẹo dừa\", with kẹo = candy and dừa = coconut. Coconut candy was originally associated with Mo Cay, a small township within the Ben Tre province.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Keodua.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_bột_lọc
+Bánh bột lọc is a small, clear-looking, chewy tapioca dumplings in Vietnamese cuisine that can be eaten as appetizers or small snacks. They are usually filled with shrimp and pork belly, often being topped with fried shallots and served with sweet chili fish sauce. It is said to have originated from Huế, as the city was once the imperial capital of the Nguyễn dynasty and known for having simple, yet sophisticated dishes.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bánh_bèo,_bột_lọc,_nem_chua.jpg?width=300
+
+http://dbpedia.org/resource/Phá_lấu
+Phá lấu (Chinese: 拍滷; Pe̍h-ōe-jī: phah-ló̍) is a Vietnamese dish from Ho Chi Minh City, made from pork meat and offal that is braised in a spiced stock of five-spice powder (with curry powder sometimes added). Small wooden sticks are used to pick up the meat, which is then dipped in pepper, lime/kumquat and chili fish sauce and served with rice, noodle or bánh mì. In Cambodia, the dish is called pak lov (Khmer: ផាក់ឡូវ).@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Phá_lấu_as_served_in_Vietnam.jpeg?width=300
+
+http://dbpedia.org/resource/Pho
+Phở or pho (UK: /fɜː/, US: /fʌ/, Canada: /fɑː/; Vietnamese: [fəː˧˩˧]) is a Vietnamese soup dish consisting of broth, rice noodles (bánh phở), herbs, and meat (usually beef) (phở bò), sometimes chicken (phở gà). Pho is a popular food in Vietnam where it is served in households, street stalls and restaurants countrywide. Pho is considered Vietnam's national dish.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Pho-Beef-Noodles-2008.jpg?width=300
+
+http://dbpedia.org/resource/Bún_thịt_nướng
+Bún thịt nướng (Vietnamese: [ɓǔn tʰìt nɨ̌əŋ], rice noodles [with] grilled meat) is a popular Vietnamese dish of cold rice-vermicelli noodle topped with grilled pork, fresh herbs like basil and mint, fresh salad, giá (bean sprouts), and chả giò (spring rolls). The dish is dressed in nước mam fish sauce (nước chấm). Also, the dish is topped with roasted peanuts, Vietnamese pickled carrots, nem nướng̣ (grilled garlic pork sausage) or grilled prawns. Bún thịt nướng is popular in all regions of Vietnam, except for in Hanoi, where a related dish, bún chả, is served.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bun_thit_nuong.jpg?width=300
+
+http://dbpedia.org/resource/Pâté
+Pâté (UK: /ˈpæteɪ/ PAT-ay, US: /pɑːˈteɪ, pæˈ-/ pa(h)-TAY, French: [pɑte]) is a paste, pie or loaf filled with a forcemeat. Common forcemeats include ground meat from pork, poultry, fish or beef; fat, vegetables, herbs, spices and either wine or brandy (often cognac or armagnac). It is often served on or with bread or crackers. Pâté can be served either hot or cold, but it is considered to develop its best flavors after a few days of chilling.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Pates_p1150435.jpg?width=300
+
+http://dbpedia.org/resource/Vietnamese_iced_coffee
+Vietnamese iced coffee (Vietnamese: cà phê đá, literally \"iced coffee\") is a traditional Vietnamese coffee recipe. At its simplest, cà phê đá is made using medium to coarse ground dark roast Vietnamese-grown coffee with a small metal Vietnamese drip filter (phin cà phê). After the hot water is added, the drip filter releases drops of hot coffee slowly into a cup. This finished cup of hot coffee is then quickly poured into a glass full of ice making the finished Vietnamese iced coffee.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Ca_Phe_Sua_Nong.jpg?width=300
+
+http://dbpedia.org/resource/Cơm_rượu
+Cơm rượu (Vietnamese pronunciation: [kəːm ʐɨə̌ˀw]) also known as rượu nếp cái is a traditional Vietnamese dessert from Southern Vietnam, made from glutinous rice. To prepare cơm rượu, glutinous rice is cooked, mixed with yeast, and rolled into small balls. The balls are served in a slightly alcoholic milky, white liquid which is essentially a form of rice wine, and which also contains small amounts of sugar and salt. The dish is eaten with a spoon. In Northern Vietnam, a similar dessert (which is thicker, with no liquid, and not made into balls) is called rượu nếp.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Comruou.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_cáy
+Bánh cáy is a variety of Vietnamese bánh (translates loosely as \"cake\" or \"bread\") made in the Thái Bình Province of northern Vietnam. It is made of sticky rice, sugar, gac or gardenia, sesame, carrots, mandarin orange peel, and lard. The mixture is roasted and ground, then put into a square box. It resembles the eggs of the , a small crab in northern Vietnam which lives in rivers and rice paddies, from which this bánh derives its name. Bánh cáy is traditionally served with tea.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bánh_cáy.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_chưng
+Bánh chưng is a traditional Vietnamese food which is made from glutinous rice, mung beans, pork and other ingredients. Its origin is told by the legend of Lang Liêu, a prince of the last king of the Sixth Hùng Dynasty, who became the successor thanks to his creation of bánh chưng and bánh giầy, which symbolized, respectively, the earth and the sky. Considered an essential element of the family altar on the occasion of Tết, the making and eating of bánh chưng during this time is a well-preserved tradition of Vietnamese people. Beside the Tết holiday, bánh chưng is also eaten all year round as Vietnamese cuisine.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banh_chung_vuong.jpg?width=300
+
+http://dbpedia.org/resource/Bún_bò_Huế
+Bún bò Huế (pronounced [ɓun˧˥ ɓɔ˧˩ hwe˧˥]) or bún bò (English: /buːn bɔː/) is a popular Vietnamese soup containing rice vermicelli (bún), beef (bò) and sometimes pork knuckles and pig blood curds. Huế is a city in central Vietnam associated with the cooking style of the former royal court. The dish has a mix of spicy, salty, and umami flavors. The predominant flavor is that of lemongrass. Compared to phở or bún riêu, the noodles are thicker and more cylindrical.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bunbo.jpg?width=300
+
+http://dbpedia.org/resource/Cơm_tấm
+Cơm tấm or com tam (US: /kʌm təm/; Vietnamese: [kəːm tə̌m]) is a Vietnamese dish made from rice with fractured rice grains. Tấm refers to the broken rice grains, while cơm refers to cooked rice. Although there are varied names like cơm tấm Sài Gòn (Saigon-style broken rice), particularly for Saigon, the main ingredients remain the same for most cases.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Cơm_Tấm,_Da_Nang,_Vietnam.jpg?width=300
+
+http://dbpedia.org/resource/Tiết_canh
+Tiết canh is a Vietnamese dish of raw blood pudding served with cooked meat in Northern Vietnam. Pork and duck are the most common animal used to create this raw blood pudding. The most popular is tiết canh vịt, made from freshly killed duck blood and duck meat.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Tiet.jpg?width=300
+
+http://dbpedia.org/resource/Canh_chua
+Canh chua (Vietnamese: [kaiŋ cuə], sour soup, chữ nôm:羹䣷) or cá nấu (\"cooked fish\", chữ nôm:𩵜𤋷) is a Vietnamese sour soup indigenous to the Mekong Delta region of Southern Vietnam. It is typically made with fish from the Mekong River Delta, pineapple, tomatoes (and sometimes also other vegetables such as đậu bắp or dọc mùng), and bean sprouts, in a tamarind-flavored broth. It is garnished with the lemony-scented herb ngò ôm (Limnophila aromatica), caramelized garlic, and chopped scallions, as well as other herbs, according to the specific variety of canh chua; these other herbs may include rau răm (Vietnamese coriander), ngò gai (long coriander), and rau quế (Thai basil). It can be served alone, with white rice, or with rice vermicelli. Variations can include prawns, squid, spare ribs, f@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Canhchua2.jpg?width=300
+
+http://dbpedia.org/resource/Chè_trôi_nước
+Chè trôi nước (or sometimes is called Chè xôi nước in Southern Vietnam or Bánh chay in Northern Vietnam, both meaning \"floating dessert wading in water\") is a Vietnamese dessert made of glutinous rice filled with mung bean paste bathed in a sweet clear or brown syrup made of water, sugar, and grated ginger root. It is generally warmed before eating and garnished with sesame seeds and coconut milk. It is often served during Lunar New Year or more recently, served in the Cold-Eating Festival (March 3 in the Vietnamese calendar).@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banhchay.jpg?width=300
+
+http://dbpedia.org/resource/Nem_nướng
+Nem nướng (literally \"grilled sausage\"), is Vietnamese grilled pork sausage or grilled meatball, and a popular Vietnamese food item, sometimes served as an individual appetizer or snack, or served with rice noodles or rice as a main course. Nem nướng is a specialty of Khánh Hòa Province (Nha Trang).@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Nem_nướng.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_bao
+Bánh bao (literally \"bun cake\") is a Vietnamese bun based on the Cantonese da bao (大包, literally \"big bun\") brought to Vietnam by Cantonese immigrants. It is a ball-shaped bun containing pork or chicken meat, onions, eggs, mushrooms and vegetables, in Vietnamese cuisine. It often has Chinese sausage and a portion of a hard-boiled egg inside. Bánh bao are generally larger than baozi, and are filled with savory fillings, the most common being seasoned ground pork and quail egg. A vegetarian version of bánh bao also exists.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banhbao.jpg?width=300
+
+http://dbpedia.org/resource/Chạo_tôm
+Chạo tôm is a traditional Vietnamese dish that comes from the Huế region of Central Vietnam. It consists of shrimp surimi grilled on a sugar cane stick. It is often presented as a dish during large banquets prepared for weddings, holidays, or similar special events. 
+* Chạo tôm@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bun-Chao-Tom-2008.jpg?width=300
+
+http://dbpedia.org/resource/Bún_ốc
+Bún ốc (\"snail vermicelli soup\") is a Vietnamese dish originating from Hanoi, Vietnam. Roasted or boiled snails (ốc luộc), may be eaten first as an appetizer. Snail congee is called cháo ốc, and canh ốc chuối đậu, is a thin snail soup with green banana, fried tofu and tía tô.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Street_food_in_Hanoi.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_mì
+In Vietnamese cuisine, Bánh mì or banh mi (/ˈbɑːn miː/, /ˈbæn/; Vietnamese: [ɓǎjŋ̟ mî], \"bread\") is a short baguette with thin, crisp crust and soft, airy texture. It is often split lengthwise and filled with savory ingredients like a submarine sandwich and served as a meal, called bánh mì thịt. Plain banh mi is also eaten as a staple food.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Chicken_Schnitzel_Roll.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_cuốn
+Bánh cuốn (Vietnamese: [ɓǎjŋ̟ kǔən], rolled sheets) is a Vietnamese dish originating from Northern Vietnam.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bánh_cuốn_Thanh_Trì.jpg?width=300
+
+http://dbpedia.org/resource/Bò_nướng_lá_lốt
+Thịt bò nướng lá lốt (\"grilled beef, in lolot leaf\") or thịt bò lá lốt (\"beef, leaf of lolot\"), bò nướng lá lốt is a dish consisting of Vietnamese beef in lolot leaves, which are called \"betel\" leaves by some English magazines. The leaves smell spicy but have a medicinal taste. The food is often served or sold at barbecues, and is the 5th out of 7 courses in the multi-course meal Bò 7 món. There is a northern version called chả lá lốt using pork instead of beef and often pan-fried instead of grilled. In Southern Vietnam, the lolot leaf is also called lá lốp.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bò_nướng_lá_lốt_tại_Manchester.jpg?width=300
+
+http://dbpedia.org/resource/Gỏi_cuốn
+Gỏi cuốn, salad roll, summer roll, fresh spring roll, spring roll, or rice paper roll, is a Vietnamese dish traditionally consisting of pork, prawn, vegetables, bún (rice vermicelli), and other ingredients wrapped in Vietnamese bánh tráng (commonly known as rice paper or cold roll). Unlike other spring roll dishes which are believed to be originated from China, Vietnamese gỏi cuốn is the country's creation using rice paper .@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Gỏi_cuốn.jpg?width=300
+
+http://dbpedia.org/resource/Cốm
+Cốm, or green rice, is a flattened rice dish in Vietnamese cuisine. It is not dyed green, as can be done with pandan, but is immature rice kernels roasted over very low heat then pounded in a mortar and pestle until flattened. Cốm is a seasonal dish associated with autumn. It can be eaten plain or with coconut shavings. The taste is slightly sweet with a nutty flavor. It is a popular seasonal dessert across Vietnam, especially in Red River Delta cuisine.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Com.jpg?width=300
+
+http://dbpedia.org/resource/Chè
+Chè (Vietnamese pronunciation: [cɛ̂]) is any traditional Vietnamese sweet beverage, dessert soup or pudding. Varieties of Chè are made with mung beans, black-eyed peas, kidney beans, tapioca, jelly (clear or grass), fruit (longan, mango, durian, lychee or jackfruit), and coconut cream. Other types are made with ingredients such as salt, aloe vera, seaweed, lotus seed, sesame seed, sugar palm seeds, taro, cassava and pandan leaf extract. Some varieties, such as chè trôi nước, may also include dumplings. Chè are often prepared with one of a number of varieties of beans, tubers, and/or glutinous rice, cooked in water and sweetened with sugar. In southern Vietnam, chè are often garnished with coconut creme.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Vietblackeyedpeas.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_tráng
+Bánh tráng or bánh đa nem, a Vietnamese term (literally, coated cake and nem skins, respectively), sometimes called rice paper wrappers, rice crepes, rice wafers or nem wrappers, are edible Vietnamese wrappers used in Vietnamese cuisine, primarily in finger foods and appetizers such as Vietnamese nem dishes. The term rice paper wrappers can sometimes be a misnomer, as some banh trang wrappers are made from rice flour supplemented with tapioca flour or sometimes replaced completely with tapioca starch. The roasted version is bánh tráng nướng.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Nems_wafer_DSC04723.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_bèo
+A bánh bèo is a Vietnamese dish that is originated from Huế, a city in Central Vietnam. The English translation for this dish is water fern cakes. Bánh bèo is made from a combination of rice flour and tapioca flour. It is popular street food in Vietnam. The ingredients include rice cake, dried shrimps, crispy pork skin, scallion oil, and dipping sauce. It is usually eaten as a snack but is now considered a dish in restaurants and can be eaten as lunch and dinner.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bánh_bèo.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_đúc
+Bánh đúc is a Vietnamese bánh (cake). There are two main types of bánh đúc, the white Northern Vietnamese cake and the green Southern version.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banhduc-northern.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_hỏi
+Bánh hỏi (Vietnamese: [ɓaɲ hɔːj]; Khmer: បាញ់ហយ, bănh hây [ɓaɲ hɑːj]) is a Vietnamese dish consisting of rice vermicelli woven into intricate bundles and often topped with chopped scallions or garlic chives sauteed in oil, served with a complimentary meat dish. The strings of noodles are usually only as thin as a toothpick; the texture is firm enough so the noodles do not fall apart but is not at all sticky to keep the dish light and suitable for a breakfast treat. Also known as question cake or pie.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banh_hoi.jpg?width=300
+
+http://dbpedia.org/resource/Chả_giò
+Chả giò (Vietnamese: [ca᷉ː jɔ̂]), or nem rán, also known as fried spring roll, is a popular dish in Vietnamese cuisine and usually served as an appetizer in Europe and North America, where there are large Vietnamese diaspora. It is ground meat, usually pork, wrapped in rice paper and deep-fried.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Cha_gio.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_canh
+Bánh canh (Vietnamese: [ɓaɲ kaɲ]; Khmer: បាញ់កាញ់, bănh kănh [ɓaɲ kaɲ]) are a thick Vietnamese noodles that can be made from tapioca flour or a mixture of rice and tapioca flour. \"Cake\" refers to the thick sheet of uncooked dough from which the noodles are cut. The Vietnamese word bánh refers to items such as noodles or cakes that are made from flour, and canh means \"soup.\"@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Banh-Canh-Noodle-Soup.jpg?width=300
+
+http://dbpedia.org/resource/Mì_Quảng
+Mì Quảng (also spelled mỳ Quảng) (literally: Quảng style noodle), is a Vietnamese noodle dish that originated from Quảng Nam Province in central Vietnam. In the region, it is one of the most popular and nationally recognized food items, and served on various occasions such as at family parties, death anniversaries, and Tết. Mì Quảng can both be found in many famous restaurants and street vendors among Central provinces, which used as a popular breakfast & lunch item.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Mì_Quảng.jpg?width=300
+
+http://dbpedia.org/resource/Vietnamese_noodles
+Vietnamese cuisine includes many types of noodles. These are often served in soup but are also served directly.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Pho-Beef-Noodles-2008.jpg?width=300
+
+http://dbpedia.org/resource/Bánh_rán
+Bánh rán is a deep-fried glutinous rice ball Vietnamese dish from northern Vietnam. In Vietnamese, bánh is a category of food including cakes, pies, and pastries, while rán means \"fried.\" Its outer shell is made from glutinous rice flour, and covered all over with white sesame seeds. Its filling is made from sweetened mung bean paste, and scented with jasmine flower essence. Traditionally, the filling should be separated from the she

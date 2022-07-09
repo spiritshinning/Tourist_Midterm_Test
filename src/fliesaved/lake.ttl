@@ -1,0 +1,126 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "abstract" , "p" , "thumb" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thap_Rua.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hoan Kiem Lake (Vietnamese: Hồ Hoàn Kiếm, Hán tự: 湖還劍, meaning \"Lake of the Returned Sword\" or \"Lake of the Restored Sword\"), also known as Gươm Lake (Hồ Gươm (Sword Lake)) or Tả Vọng Lake ( Hồ Tả Vọng), is a fresh water lake, measuring some 12 ha in the historical center of Hanoi, the capital city of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Hoàn_Kiếm_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Truc_Bach_Lake.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Trúc Bạch Lake (Vietnamese: Hồ Trúc Bạch) is one of the many lakes in the city of Hanoi, the capital of Vietnam. It is known outside Vietnam as the site where future United States politician John McCain landed during the Vietnam War after being shot down."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Trúc_Bạch_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Búng_Bình_Thiên.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Búng Bình Thiên, or God lake, is one of the largest fresh water lake in Mekong Delta in Vietnam. Located in An Phu District, province of An Giang, linking three communes, namely Khánh Bình, Nhơn Hội and Quốc Thái, and adjoining Bình Di River and Hậu River, the natural lake is becoming known as an eco-tourist area."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Búng_Bình_Thiên> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thác_Bà_Lake.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Thác Bà Lake (Vietnamese: Hồ Thác Bà) is a manmade lake in Yên Bái Province, Vietnam created by construction of the in the 1960s. Thác Bà is the name of the which pre-existed the dam (cf. Vietnamese: thác nước, waterfall)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Thác_Bà_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Babenp_2007_01_3.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ba Bể Lake (Vietnamese: Hồ Ba Bể; Ba means Three, Bể is from the Tay language word pé, meaning \"lake\") is the largest natural lake in Vietnam. It is located in Nam Mẫu commune, Ba Bể district, Bắc Kạn Province in the Northeast region of the country. Ba Bể Lake is a featured geographical science and is a biodiversity reservoir. It is a part of the Ba Bể National Park. It is home to a range of animals and plants."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Ba_Bể_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Tuyen_Lam_Lake_01.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tuyền Lâm Lake (hồ Tuyền Lâm) is a man-made lake in Đà Lạt city, in Lâm Đồng Province, Vietnam. It is one of 21 National Tourism Areas. Trúc Lâm Temple can be reached by cable car."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Tuyền_Lâm_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hoyenlap.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Yên Lập Lake (Vietnamese: Hồ Yên Lập) is a large artificial freshwater lake in Hoành Bồ District, Quảng Ninh Province, Vietnam. Work began creating the dam on and in 1978. It has a capacity of 128 million cubic metres. \n* v \n* t \n* e"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Yên_Lập_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hồ_Thiền_Quang.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Halais Lake is a lake in Hanoi, Vietnam, located next to Nguyễn Du Street, which used to be named \"Rue Halais\" under the French (1888-1945), hence the name \"Halais\". According to Vietnamese sources, it should be spelled \"Halais Lake\", the French name for the lake called \"Hồ Thiền Quang\" in Vietnamese."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Thiền_Quang_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bautro.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bàu Tró (Bàu in Vietnamese dialect means pond) is a lake in Đồng Hới city, Quảng Bình Province, Vietnam. This lake is an important fresh water supply for more than 130,000 inhabitants of Đồng Hới. Bàu Tró is better known for archaeological findings by French archaeologists during French Indochina periods. The artefacts found here dated back as far as 5,000 years ago, displaying important proof of human settlements in this area. \n* v \n* t \n* e"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Bàu_Tró> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hodinhbinh.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Định Bình Lake (Vietnamese: Hồ Định Bình) is a large artificial freshwater lake in Vĩnh Thạnh District, Bình Định Province, Vietnam. Work began creating the dam on Côn River in May 2003. It has a capacity of 226 million cubic metres. The lake and dam are expected to provide irrigation for some 12,545 hectares (over 48 square miles). \n* v \n* t \n* e"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Định_Bình_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/West_Lake_(Hanoi).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "West Lake (Vietnamese: Hồ Tây) is the biggest freshwater lake of Hanoi, Vietnam, located northwest of the city center. With a shore length of 17 km (about 10.6 miles) and 500 hectare (about 5 km2) in area, this is the largest lake of the capital and a popular place for recreation with many surrounding gardens, hotels and villas. A small part of West Lake is divided by to form Trúc Bạch Lake. One district of Hanoi is named after the lake, Tây Hồ District."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/West_Lake_(Hanoi)> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hồ_Núi_Cốc_01.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Núi Cốc Lake (Vietnamese: Hồ Núi Cốc) is a man-made lake, approximately 25 kilometres (16 mi) west of the city of Thái Nguyên in Thái Nguyên Province, Vietnam, in Tam Đảo National Park. It is a popular visitor attraction on account of the legend associated with the 89 islands within the lake."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Núi_Cốc_Lake> ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .

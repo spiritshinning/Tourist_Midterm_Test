@@ -1,0 +1,157 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "abstract" , "p" , "thumb" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Buddha_statue,_Nha_Trang.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Long Sơn Pagoda (Vietnamese: Chùa Long Sơn) is a Buddhist temple in the city of Nha Trang on South Central Coast of Vietnam. It is regarded as one of the main sites in the city, along with ."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Long_Sơn_Pagoda ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Citadel_Hue_2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thế Miếu (Chinese: 世廟), also called Thế Tổ Miếu (Chinese: 世祖廟), is an ancestral temple to Vietnam's emperors in the Imperial City, Huế."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thế_Miếu ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/ChuaGiacLam02.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Giác Lâm Pagoda (Vietnamese: Chùa Giác Lâm; chữ Hán: 覺林寺, Giác Lâm tự) is a historic Buddhist pagoda in Ho Chi Minh City, the largest city in Vietnam. Built in 1744, it is one of the oldest temples in the city. It was officially listed as a historical site by the Vietnamese Department of Culture on November 16, 1988 under Decision 1288 VH/QD. The pagoda is located at 118 Lạc Long Quân, in the 23rd ward of Tân Bình district, in the Phú Thọ Hòa region of the city. It stands on Cẩm Sơn, and is also known as Cẩm Đệm and Sơn Can."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Giác_Lâm_Pagoda ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/phatdiemk-77.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Phát Diệm Cathedral (Vietnamese: Nhà thờ chính tòa Phát Diệm) is the seat of the Roman Catholic Diocese of Phát Diệm, located in Kim Sơn District of Ninh Bình Province in Vietnam. The architecture of the church – built in stone and wood in 1891 – is an eclectic blend of Vietnamese and European architectural styles. It was mainly built in , similar to historical palaces and temples. It was bombed in 1972 and later restored. In addition to the cathedral itself, the Phát Diệm complex consists of five chapels, three grottoes, a memorial house, and the recently built pastoral center of the diocese."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phát_Diệm_Cathedral ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Den-tho-ba-trieu.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Bà Triệu Temple (Đền Bà Triệu) is a temple at thôn Phú Điền, xã Triệu Lộc, huyện Hậu Lộc, Thanh Hóa province, Vietnam dedicated to the semi-legendary national heroine Bà Triệu (248AD). The Bà Triệu Temple Festival takes place on April 3."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bà_Triệu_Temple ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Angkor_Wat.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Khmer architecture (Khmer: ស្ថាបត្យកម្មខ្មែរ), also known as Angkorian architecture (Khmer: ស្ថាបត្យកម្មសម័យអង្គរ), is the architecture produced by the Khmers during the Angkor period of the Khmer Empire from approximately the later half of the 8th century CE to the first half of the 15th century CE."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Khmer_architecture ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/DenTran-NamDinh.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Trần Temple of Nam Định (Đền Trần, Nam Định) is a temple complex of which the more recent middle section is dedicated to national hero Hưng Đạo Đại Vương (Prince Trần Quốc Tuấn) in Nam Định, Vietnam. The complex consists of three major temples: Thiên Trường (1695), Cố Trạch (1894) and Trùng Hoa (2000)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Trần_Temple_in_Nam_Định ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Mausoleum_of_Hung_King.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hùng Temple, centred at Nghĩa Lĩnh mountain in Phú Thọ province, is a temple complex in Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hùng_Temple ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thiên_Trù_Pagoda.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Perfume Pagoda (Vietnamese: Chùa Hương, Hán Nôm:香寺) is a vast complex of Buddhist temples and shrines built into the limestone mountains. It is the site of a religious festival which draws large numbers of pilgrims from across Vietnam. The centre of the Huong Temple lies in Hương Sơn Commune, Mỹ Đức District, former Hà Tây Province (now Hanoi). The centre of this complex is the Perfume Temple, also known as Chua Trong (Inner Temple), located in Huong Tich Cave."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Perfume_Pagoda ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/BaiDinh_Dien_TamThe.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bái Đính Temple (Vietnamese: Chùa Bái Đính) or Bái Đính Temple Spiritual and Cultural Complex is a complex of Buddhist temples on Bai Dinh Mountain in Gia Viễn District, Ninh Bình Province, Vietnam. The compound consists of the original old temple and a newly created larger temple. It is considered the largest complex of Buddhist temples in Vietnam and has become a popular site for Buddhist pilgrimages from across Vietnam. Bai Đính Temple, along with Phát Diệm Cathedral, Hoa Lư Ancient Capital Tam Cốc-Bích Động, Trang An, Cúc Phương is a famous tourist attraction site of Ninh Bình Province."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bái_Đính_Temple ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Văn_miếu_Xích_Đằng_02.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Văn miếu Xích Đằng is a Confucian temple located in Hưng Yên City. It is also known as Văn Miếu Hưng Yên. The Văn miếu Xích Đằng was built in 1832, and belongs to the province now located in Hưng Yên City, province of Hưng Yên."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Văn_miếu_Xích_Đằng ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Chua_Mot_Cot.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The One Pillar Pagoda (Vietnamese: Chùa Một Cột 񣘠𠬠榾, formally belongs to an architecture complex called Diên Hựu tự [延祐寺] which means Extend Bless pagoda. The pagoda is a historic Buddhist temple in the central Ba Đình district (near the Thăng Long Citadel), Hanoi, the capital of Vietnam. The most famous part of this architecture complex is Liên Hoa Đài [蓮花臺] (means Lotus Station) which is a temple with special structure: a building laid on one pillar. The original pagoda was built in 1049, had some additions and be perfected in 1105. It is regarded alongside the Perfume Temple, as one of Vietnam's two most iconic temples."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:One_Pillar_Pagoda ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Dan_Nam_Giao_Hue.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Esplanade of Sacrifice to the Heaven and Earth (Vietnamese: Đàn Nam Giao; 南郊坛) is an imperial altar situated south of the city of Huế, central Vietnam. It also known as the Nam Giao altar. It is dedicated to the heaven and earth. The complex was visited by the monarchs of the Nguyen dynasty for annual ceremonies of prayer to Heaven."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Esplanade_of_Sacrifice_to_the_Heaven_and_Earth ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Văn_miếu_Mao_Điền.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Văn Miếu Mao Điền is a Confucian temple located in Mậu Tài Village, Cẩm Điền Commune, Cẩm Giàng District, Hải Dương Province, Vietnam. The site was badly damaged and effectively laid waste by French military action in 1948. The temple has recently been further renovated with government funding. The Văn Miếu of Mao Điền, a national antique building, is the second largest literature temple in Vietnam, after the temple in Hanoi."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mao_Điền_Temple_of_Literature ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Buddha_Statue_at_the_Hội_Khánh_Temple_in_Bình_Dương,_Vietnam.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hoi Khanh Temple (Chùa Hội Khánh) is an historic Buddhist temple built in 1741 in the town of Thủ Dầu Một, Bình Dương Province in southern Vietnam. The temple was initially built on a prominent hill, but in 1861 it was destroyed in fighting as the French colonial army underwent the process of colonising southern Vietnam. The temple was rebuilt by Thích Chánh Đắc at the foot of the hill, around 100 m south of the original site. The temple currently is located at 35 Yersin Street, in Phú Cường ward, in the town of Thủ Đầu Một, north of Ho Chi Minh City."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hội_Khánh_Temple ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .

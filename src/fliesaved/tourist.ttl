@@ -1,0 +1,257 @@
+@prefix dbr: <http://dbpedia.org/resource/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix res: <http://www.w3.org/2005/sparql-results#> .
+
+[ rdf:type            res:ResultSet ;
+  res:resultVariable  "thumb" , "p" , "abstract" ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/PhongNhaCave2.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Phong Nha Cave is a cave in Phong Nha-Kẻ Bàng National Park, a UNESCO World Heritage Site in Quảng Bình Province, Vietnam. It is 7,729 metres long and contains 14 grottoes, as well as a 13,969 metre underground river. While scientists have surveyed 44.5 kilometres of passages, tourists are only allowed to explore the first 1500 metres."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Phong_Nha_Cave ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/West_Lake_(Hanoi).jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "West Lake (Vietnamese: Hồ Tây) is the biggest freshwater lake of Hanoi, Vietnam, located northwest of the city center. With a shore length of 17 km (about 10.6 miles) and 500 hectare (about 5 km2) in area, this is the largest lake of the capital and a popular place for recreation with many surrounding gardens, hotels and villas. A small part of West Lake is divided by to form Trúc Bạch Lake. One district of Hanoi is named after the lake, Tây Hồ District."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/West_Lake_(Hanoi)> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hai_Van_Pass_ocean_view.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Hải Vân Pass (Vietnamese: Đèo Hải Vân, IPA: [ɗɛ̂w ha᷉ːj vən], \"ocean cloud pass\"), is an approximately 21 km long mountain pass on National Route 1A in Vietnam. It traverses a spur of the larger Annamite Range that juts into the , on the border of Đà Nẵng and Thừa Thiên–Huế Province, near Bạch Mã National Park. Its name refers to the mists that rise from the sea, reducing visibility. Historically, the pass was a physical division between the kingdoms of Champa and Đại Việt."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hải_Vân_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Cong_Troi.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Mụ Giạ Pass (Đèo Mụ Giạ, Quảng Bình) is a mountain pass in the Annamite Range between northern Vietnam and Laos, located 90 km northwest of Đồng Hới, Vietnam. The pass is 418 m above sea level and connects National Road 15 from Tân Ấp in Vietnam to Route 12 in Khammouane Province in Laos."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mụ_Giạ_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Babenp_2007_01_3.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Ba Bể Lake (Vietnamese: Hồ Ba Bể; Ba means Three, Bể is from the Tay language word pé, meaning \"lake\") is the largest natural lake in Vietnam. It is located in Nam Mẫu commune, Ba Bể district, Bắc Kạn Province in the Northeast region of the country. Ba Bể Lake is a featured geographical science and is a biodiversity reservoir. It is a part of the Ba Bể National Park. It is home to a range of animals and plants."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ba_Bể_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thap_Rua.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hoan Kiem Lake (Vietnamese: Hồ Hoàn Kiếm, Hán tự: 湖還劍, meaning \"Lake of the Returned Sword\" or \"Lake of the Restored Sword\"), also known as Gươm Lake (Hồ Gươm (Sword Lake)) or Tả Vọng Lake ( Hồ Tả Vọng), is a fresh water lake, measuring some 12 ha in the historical center of Hanoi, the capital city of Vietnam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hoàn_Kiếm_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hoyenlap.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Yên Lập Lake (Vietnamese: Hồ Yên Lập) is a large artificial freshwater lake in Hoành Bồ District, Quảng Ninh Province, Vietnam. Work began creating the dam on and in 1978. It has a capacity of 128 million cubic metres. \n* v \n* t \n* e"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Yên_Lập_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/ĐèoNgang-2073234670_e426170883_o.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Ngang Pass (Vietnamese: Đèo Ngang, IPA: [ɗɛ̂w ŋaːŋ], literally \"Transverse Mountain Pass\") is a mountain pass on the border of the provinces of Quảng Bình and Hà Tĩnh, in the North Central Coast of Vietnam. National Route 1A crosses it as it traverses the Hoành Sơn, a side-spur of the larger Annamite Range. The pass is 2,560 m long, ascending to the height of 250 m (750 ft). Historical French texts refer to the pass as Porte d'Annam."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Ngang_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Son_Doong_Cave_5.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Sơn Đoòng cave (Vietnamese: hang Sơn Đoòng, IPA: [haːŋ˧ ʂəːn˧ ɗɔ̤ŋ˨˩]), in Phong Nha-Kẻ Bàng National Park, Bố Trạch District, Quảng Bình Province, Vietnam, is one of the world's largest natural caves. Located near the Laos–Vietnam border, Hang Sơn Đoòng has an internal, fast-flowing subterranean river and the largest cross-section of any cave, worldwide, as of 2009, believed to be twice that of the next largest passage. It is the largest known cave passage in the world by volume. As a solutional cave, it was formed in soluble limestone and is believed to be between 2 and 5 million years old."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hang_Sơn_Đoòng ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Tuyen_Lam_Lake_01.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tuyền Lâm Lake (hồ Tuyền Lâm) is a man-made lake in Đà Lạt city, in Lâm Đồng Province, Vietnam. It is one of 21 National Tourism Areas. Trúc Lâm Temple can be reached by cable car."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Tuyền_Lâm_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hang_Én_Cave_-_201505_-_JB.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Hang Én ('swift cave' in Vietnamese, named for the birds that nest in it), occasionally referred to as Én cave in English, is a cave in Phong Nha-Ke Bang National Park, a UNESCO World Heritage Site. Én is the third largest cave in the world, after Hang Sơn Đoòng in the same national park, and Deer Cave in Malaysia. The cave has its own jungle, waters, beach, and climate. There are three known entrances to Hang Én."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Hang_Én ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Mar_de_China_Meridional_-_BM_WMS_2004.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The South China Sea is a marginal sea of the Western Pacific Ocean. It is bounded in the north by the shores of South China (hence the name), in the west by the Indochinese Peninsula, in the east by the islands of Taiwan and northwestern Philippines (mainly Luzon, Mindoro and Palawan), and in the south by Borneo, eastern Sumatra and the Bangka Belitung Islands, encompassing an area of around 3,500,000 km2 (1,400,000 sq mi). It communicates with the East China Sea via the Taiwan Strait, the Philippine Sea via the Luzon Strait, the Sulu Sea via the straits around Palawan (e.g. the Mindoro and Balabac Strait), the Strait of Malacca via the Strait of Singapore, and the Java Sea via the Karimata and Bangka Strait. The Gulf of Thailand and the Gulf of Tonkin are also part of the South China Sea."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:South_China_Sea ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Đèo_Mã_Pì_Lèng.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Mã Pí Lèng Pass is a mountain pass on the Highway 4C in the territory of Pai Lung and Pa Vi commune, Hà Giang province, North Vietnam. It is approximately 20 kilometres (12 mi) long, on the section of the Highway 4C connecting the towns of Đồng Văn and Mèo Vạc. It is at the altitude of 1,500 m (4,921 ft). The road was first built by Yao, H'mong, Tay and Lolo minority people. This section of the Highway 4C was constructed in the years of 1960."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Mã_Pí_Lèng_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Búng_Bình_Thiên.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Búng Bình Thiên, or God lake, is one of the largest fresh water lake in Mekong Delta in Vietnam. Located in An Phu District, province of An Giang, linking three communes, namely Khánh Bình, Nhơn Hội and Quốc Thái, and adjoining Bình Di River and Hậu River, the natural lake is becoming known as an eco-tourist area."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Búng_Bình_Thiên ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Fansipan_Summit.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Fansipan (Vietnamese: Phan Xi Păng, ) is a mountain in Vietnam. The height of the mountain was 3,143 metres (10,312 ft) in 1909, but now the height of the mountain is 3,147.3 metres (10,326 ft). It is the highest mountain in the Indochinese Peninsula (comprising Vietnam, Laos, and Cambodia), hence its nickname \"the Roof of Indochina\". It is located in the Lào Cai Province of the Northwest region of Vietnam, 9 km (5.6 mi) southwest of Sa Pa in the Hoang Lien Son mountain range. Administratively, it is shared between Tam Đường district, Lai Châu and Sa Pa town, Lào Cai."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Fansipan ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Khau_Phạ.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Khau Phạ Pass (đèo Khau Phạ) is a mountain pass in Mù Căng Chải District, Yên Bái Province, Vietnam. The area is known for terraced rice paddies."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Khau_Phạ_Pass ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Bautro.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Bàu Tró (Bàu in Vietnamese dialect means pond) is a lake in Đồng Hới city, Quảng Bình Province, Vietnam. This lake is an important fresh water supply for more than 130,000 inhabitants of Đồng Hới. Bàu Tró is better known for archaeological findings by French archaeologists during French Indochina periods. The artefacts found here dated back as far as 5,000 years ago, displaying important proof of human settlements in this area. \n* v \n* t \n* e"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Bàu_Tró ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hồ_Thiền_Quang.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Halais Lake is a lake in Hanoi, Vietnam, located next to Nguyễn Du Street, which used to be named \"Rue Halais\" under the French (1888-1945), hence the name \"Halais\". According to Vietnamese sources, it should be spelled \"Halais Lake\", the French name for the lake called \"Hồ Thiền Quang\" in Vietnamese."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thiền_Quang_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Grotte_Thien_Duong.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Thiên Đường Cave (Paradise Cave) is a cave in Phong Nha-Kẻ Bàng National Park, UNESCO's World Heritage Site, 60 km northwest of Đồng Hới city.Thiên Đường Cave is located on an elevation of 200 meters above the sea level, near the west branch of Ho Chi Minh Highway, in Son Trach Commune, Bố Trạch District, Quảng Bình Province, Vietnam. The cave was discovered by a local man in 2005 and the first 5 km of this cave was explored by explorers from British Cave Research Association in 2005, the whole 31 km was explored and publicly announced by the British cave explorers. This cave is 31 km long, longer than Phong Nha Cave which had been considered the longest cave in this national park. The height can reach to 72 m and 150 m wide. The limestone formation is also more spectacular than that of Ph"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thiên_Đường_Cave ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hồ_Núi_Cốc_01.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Núi Cốc Lake (Vietnamese: Hồ Núi Cốc) is a man-made lake, approximately 25 kilometres (16 mi) west of the city of Thái Nguyên in Thái Nguyên Province, Vietnam, in Tam Đảo National Park. It is a popular visitor attraction on account of the legend associated with the 89 islands within the lake."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Núi_Cốc_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Tam_Coc.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Tam Cốc-Bích Động is a popular tourist destination in north Vietnam and part of the Tràng An Scenic Landscape Complex UNESCO World Heritage site. It is located in Ninh Binh province, near the village of Tam Cốc. The closest city is Ninh Binh. It consists of two distinct attractions: Tam Cốc, a flooded cave karst system; and Bích Động, a series of mountain pagodas."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     <http://dbpedia.org/resource/Tam_Cốc_–_Bích_Động> ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Hodinhbinh.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Định Bình Lake (Vietnamese: Hồ Định Bình) is a large artificial freshwater lake in Vĩnh Thạnh District, Bình Định Province, Vietnam. Work began creating the dam on Côn River in May 2003. It has a capacity of 226 million cubic metres. The lake and dam are expected to provide irrigation for some 12,545 hectares (over 48 square miles). \n* v \n* t \n* e"@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Định_Bình_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Truc_Bach_Lake.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "Trúc Bạch Lake (Vietnamese: Hồ Trúc Bạch) is one of the many lakes in the city of Hanoi, the capital of Vietnam. It is known outside Vietnam as the site where future United States politician John McCain landed during the Vietnam War after being shot down."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Trúc_Bạch_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Gulf_of_Thailand.svg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Gulf of Thailand, also known as the Gulf of Siam, is a shallow inlet in the southwestern South China Sea, bounded between the southwestern shores of the Indochinese Peninsula and the northern half of the Malay Peninsula. It is around 800 km (500 mi) in length and up to 560 km (350 mi) in width, and has a surface area of 320,000 km2 (120,000 sq mi). The gulf is surrounded on the north, west and southwest by the coastlines of Thailand (hence the name), on the northeast by Cambodia and the Mekong Delta region of Vietnam, and opens to the South China Sea in the southeast."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Gulf_of_Thailand ;
+                                       res:variable  "p"
+                                     ]
+                      ] ;
+  res:solution        [ res:binding  [ res:value     <http://commons.wikimedia.org/wiki/Special:FilePath/Thác_Bà_Lake.jpg?width=300> ;
+                                       res:variable  "thumb"
+                                     ] ;
+                        res:binding  [ res:value     "The Thác Bà Lake (Vietnamese: Hồ Thác Bà) is a manmade lake in Yên Bái Province, Vietnam created by construction of the in the 1960s. Thác Bà is the name of the which pre-existed the dam (cf. Vietnamese: thác nước, waterfall)."@en ;
+                                       res:variable  "abstract"
+                                     ] ;
+                        res:binding  [ res:value     dbr:Thác_Bà_Lake ;
+                                       res:variable  "p"
+                                     ]
+                      ]
+] .

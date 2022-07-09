@@ -1,0 +1,168 @@
+http://dbpedia.org/resource/Holiday_cottage
+A holiday cottage, holiday home, or vacation property is accommodation used for holiday vacations, corporate travel, and temporary housing often for less than 30 days. Such properties are typically small homes, such as cottages, that travelers can rent and enjoy as if it were their own home for the duration of their stay. The properties may be owned by those using them for a vacation, in which case the term second home applies; or may be rented out to holidaymakers through an agency.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Holiday_cottage_entrance_-_geograph.org.uk_-_1397716.jpg?width=300
+
+http://dbpedia.org/resource/Lodging
+Lodging refers to the use of a short-term dwelling, usually by renting the living space or sometimes through some other arrangement. People who travel and stay away from home for more than a day need lodging for sleep, rest, food, safety, shelter from cold temperatures or rain, storage of luggage and access to common household functions. Lodging is a form of the sharing economy. Lodging is offered by an owner of real property or a leasehold estate, including the hotel industry, hospitality industry, real estate investment trusts, and owner-occupancy houses.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bratislava_hotel_Carlton_Slovakia.jpg?width=300
+
+http://dbpedia.org/resource/Safari_lodge
+A safari lodge (also known as a game lodge) is a type of tourist accommodation in southern and eastern Africa. Lodges are mainly used by tourists on wildlife safaris, and are typically located in or near national parks or game reserves.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Tarangire_2012_05_28_1837_(7468547974).jpg?width=300
+
+http://dbpedia.org/resource/Budgetplaces
+Budgetplaces is an online travel agency (OTA) which offers low-cost accommodation. As of April 2012, Budgetplaces was working with over 10,000 budget hotels, hostels, bed-and-breakfasts and apartments in more than 100 countries worldwide.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Budgetplaces_200x126.jpg?width=300
+
+http://dbpedia.org/resource/Hotel
+A hotel is an establishment that provides paid lodging on a short-term basis. Facilities provided inside a hotel room may range from a modest-quality mattress in a small room to large suites with bigger, higher-quality beds, a dresser, a refrigerator and other kitchen facilities, upholstered chairs, a flat screen television, and en-suite bathrooms. Small, lower-priced hotels may offer only the most basic guest services and facilities. Larger, higher-priced hotels may provide additional guest facilities such as a swimming pool, business centre (with computers, printers, and other office equipment), childcare, conference and event facilities, tennis or basketball courts, gymnasium, restaurants, day spa, and social function services. Hotel rooms are usually numbered (or named in some smaller @en
+http://commons.wikimedia.org/wiki/Special:FilePath/The_Peninsula_New_York_Entrance.jpg?width=300
+
+http://dbpedia.org/resource/Foster's_Log_Cabin_Court
+Foster's Log Cabin Court (now the Log Cabin Motor Court) is located at 330-332 Weaverville Road in Woodfin, North Carolina, about five miles north of the City of Asheville. One of the first auto-oriented tourism facilities in the Asheville area, it features a number of one and two bedroom Rustic Revival log cabins and a dining lodge. It was placed on the National Register of Historic Places in 2017.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Foster's_Log_Cabin_Court,_330_&_332_Weaverville_Road,_Woodfin,_NC.jpg?width=300
+
+http://dbpedia.org/resource/Vacation_rental
+A vacation rental is the renting out of a furnished apartment, house, or professionally managed resort-condominium complex on a temporary basis to tourists as an alternative to a hotel. The term vacation rental is mainly used in the US. Other terms used are self-catering rentals, holiday homes, holiday lets (in the United Kingdom), cottage holidays (for rentals of smaller accommodation in rural locations) and gites (in rural locations in France).@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Gaestehaeuser_auf_Vilm.jpg?width=300
+
+http://dbpedia.org/resource/Beach_hut
+A beach hut (also known as a beach cabin, beach box or bathing box) is a small, usually wooden and often brightly coloured, box above the high tide mark on popular bathing beaches. They are generally used as a shelter from the sun or wind, changing into and out of swimming attire and for the safe storing of some personal belongings. Some beach huts incorporate simple facilities for preparing food and hot drinks by either bottled gas or occasionally mains electricity.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Cabines_de_bain_Berck.jpg?width=300
+
+http://dbpedia.org/resource/Motel
+A motel, also known as a motor hotel, motor inn or motor lodge, is a hotel designed for motorists, usually having each room entered directly from the parking area for motor vehicles rather than through a central lobby. Entering dictionaries after World War II, the word motel, coined as a portmanteau of \"motor hotel\", originates from the Milestone Mo-Tel of San Luis Obispo, California (now called the Motel Inn of San Luis Obispo), which was built in 1925. The term referred to a type of hotel consisting of a single building of connected rooms whose doors faced a parking lot and in some circumstances, a common area or a series of small cabins with common parking. Motels are often individually owned, though motel chains do exist.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bjerka_Motel_B.jpg?width=300
+
+http://dbpedia.org/resource/Villa
+A villa is a type of house that was originally an ancient Roman upper-class country house. Since its origins in the Roman villa, the idea and function of a villa have evolved considerably. After the fall of the Roman Republic, villas became small farming compounds, which were increasingly fortified in Late Antiquity, sometimes transferred to the Church for reuse as a monastery. Then they gradually re-evolved through the Middle Ages into elegant upper-class country homes. In modern parlance, \"villa\" can refer to various types and sizes of residences, ranging from the suburban semi-detached double villa to residences in the wildland–urban interface.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Villa_Medici_a_Fiesole_1.jpg?width=300
+
+http://dbpedia.org/resource/Houseboat
+A houseboat is a boat that has been designed or modified to be used primarily as a home. Some houseboats are not motorized, because they are usually moored, kept stationary at a fixed point and often tethered to land to provide utilities. However, many are capable of operation under their own power. Float house is a Canadian and American term for a house on a float (raft); a rough house may be called a shanty boat. In Western countries, houseboats tend to be either owned privately or rented out to holiday-goers, and on some canals in Europe, people dwell in houseboats all year round. Examples of this include, but are not limited to, Amsterdam, London, and Paris.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/LakeUnionHouseboat.jpg?width=300
+
+http://dbpedia.org/resource/Roadhouse_(premises)
+A roadhouse (Australia and the United States) or stopping house (Canada) is a small mixed-use premises typically built on or near a major road in a sparsely populated area or an isolated desert region that services the passing travellers, providing food, drinks, accommodation, fuel, and parking spaces to the guests and their vehicles. The premises generally consist of just a single dwelling, permanently occupied by a nuclear family, usually between two and five family members. In Australia, a roadhouse is often considered to be the smallest type of human settlement.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/VM_5135_G209_Gaoqiao_to_Wujiaping_(Xingshan_County).jpg?width=300
+
+http://dbpedia.org/resource/Coaching_inn
+The coaching inn (also coaching house or staging inn) was a vital part of Europe's inland transport infrastructure until the development of the railway, providing a resting point (layover) for people and horses. The inn served the needs of travellers, for food, drink, and rest. The attached stables, staffed by hostlers, cared for the horses, including changing a tired team for a fresh one. Coaching inns were used by private travellers in their coaches, the public riding stagecoaches between one town and another, and (in England at least) the mail coach. Just as with roadhouses in other countries, although many survive, and some still offer overnight accommodation, in general coaching inns have lost their original function and now operate as ordinary pubs.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/The_Cock_Hotel,_1789.jpg?width=300
+
+http://dbpedia.org/resource/Homestay
+Homestay is a popular form of hospitality and lodging whereby visitors share a residence with a local of the area to which they are traveling. The length of stay can vary from one night to over a year and can be provided gratis (gift economy), in exchange for monetary compensation, in exchange for a stay at the guest's property either simultaneously or at another time (home exchange), or in exchange for housekeeping or work on the host's property (barter economy). Homestays are examples of collaborative consumption and the sharing economy.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Vietnam_08_-_091_-_my_homestay_(3184886982).jpg?width=300
+
+http://dbpedia.org/resource/Wilderness_hut
+A wilderness hut, bothy, backcountry hut, or backcountry shelter is a free, primitive mountain hut for temporary accommodation, usually located in wilderness areas, national parks and along backpacking and hiking routes. They are found in many parts of the world, such as Finland, Sweden, Norway, northern Russia, the Alps, the Pyrenees, Scotland, Australia, New Zealand, Canada, and the United States. Huts are basic and unmanned, without running water.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/TWC_Haast_heli•_Stewart_Nimmo_•_MRD_9079.jpg?width=300
+
+http://dbpedia.org/resource/Boutique_hotel
+A boutique hotel is a small hotel which typically has between 10 and 100 rooms in settings with upscale accommodations and individualized unique selling points (USPs).@en
+http://commons.wikimedia.org/wiki/Special:FilePath/MadisonHotelFront.jpg?width=300
+
+http://dbpedia.org/resource/Flophouse
+A flophouse (American English) or dosshouse (British English) is a place that offers very low cost lodging, providing space to sleep and minimal amenities.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Bunks_in_a_Seven-Cent_Lodging-House,_Pell_Street.jpeg?width=300
+
+http://dbpedia.org/resource/Timeshare
+A timeshare (sometimes called vacation ownership) is a property with a divided form of ownership or use rights. These properties are typically resort condominium units, in which multiple parties hold rights to use the property, and each owner of the same accommodation is allotted their period of time. Units may be sold as a partial ownership, lease, or \"right to use\", in which case the latter holds no claim to ownership of the property. The ownership of timeshare programs is varied, and has been changing over the decades.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Barnsdale_Hall_Hotel_timeshare_lodges._-_geograph.org.uk_-_1276498.jpg?width=300
+
+http://dbpedia.org/resource/Resort_hotel
+A resort hotel is a hotel which often contains full-sized luxury facilities with full-service accommodations and amenities. These hotels may attract both business conferences and vacationing tourists and offer more than a convenient place to stay. These hotels may be referred to as major conference center hotels, flagship hotels, destination hotels, and destination resorts. The market for conference and resort hotels is a subject for market analysis.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Las_Vegas_63.jpg?width=300
+
+http://dbpedia.org/resource/Love_hotel
+A love hotel is a type of short-stay hotel found around the world operated primarily for the purpose of allowing guests privacy for sexual activities. The name originates from \"Hotel Love\" in Osaka, which was built in 1968 and had a rotating sign. Although love hotels exist all over the world, the term \"love hotel\" is often used to refer specifically to those located within Japan.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Castle_love_hotel_2006.jpg?width=300
+
+http://dbpedia.org/resource/Ice_hotel
+An ice hotel is a temporary hotel made up of snow and sculpted blocks of ice. Ice hotels, dependent on sub-freezing temperatures, are constructed from ice and snow and typically have to be rebuilt every year. Ice hotels exist in several countries, and they have varying construction styles, services and amenities, the latter of which may include ice bars, restaurants, chapels, saunas and hot tubs.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Icehotel_entre_ms.jpg?width=300
+
+http://dbpedia.org/resource/Bunkhouse
+A bunkhouse is a barracks-like building that historically was used to house working cowboys on ranches, or loggers in a logging camp in North America. As most cowboys were young single men, the standard bunkhouse was a large open room with narrow beds or cots for each individual and little privacy. The bunkhouse of the late 19th century was usually heated by a wood stove and personal needs were attended to in a cookhouse and an outhouse.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Murphys_Point-Bunkhouse.jpg?width=300
+
+http://dbpedia.org/resource/Capsule_hotel
+Capsule hotel (Japanese: カプセルホテル, romanized: kapuseru hoteru), also known in the Western world as a pod hotel, is a type of hotel developed in Japan that features many small bed-sized rooms known as capsules. Capsule hotels provide cheap, basic overnight accommodation for guests who do not require or who cannot afford larger, more expensive rooms offered by more conventional hotels.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Capsule_hotel.jpg?width=300
+
+http://dbpedia.org/resource/Caravanserai
+A caravanserai (or caravansary; /kærəˈvænsəˌraɪ/) was a roadside inn where travelers (caravaners) could rest and recover from the day's journey. Caravanserais supported the flow of commerce, information and people across the network of trade routes covering Asia, North Africa and Southeast Europe, most notably the Silk Road. Although many were located along rural roads in the countryside, urban versions of caravanserais were also historically common in cities throughout the Islamic world, though they were often called by other names such as khan, wikala, or funduq.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Caravansaray_Shah-Abbasi_Karaj_Panorama.jpg?width=300
+
+http://dbpedia.org/resource/Bed_and_breakfast
+A bed and breakfast (typically shortened to B&B or BnB) is a small lodging establishment that offers overnight accommodation and breakfast. Bed and breakfasts are often private family homes and typically have between four and eleven rooms, with six being the average. In addition, a B&B usually has the hosts living in the house. Bed and breakfast is also used to describe the level of catering included in a hotel's room prices, as opposed to room only, half-board or full-board.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Day173abfastg.jpg?width=300
+
+http://dbpedia.org/resource/Casa_particular
+Casa particular (Spanish for \"private house\"; plural casas particulares) is a phrase meaning private accommodation or private homestays in Cuba, very similar to a bed and breakfast, although it can also take the form of a vacation rental. When the meaning is clear, the term is often shortened to simply casa. Today, many casas particulares are rented through online agencies, some specifically Cuban, and others that work worldwide.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Cuba-casa-particular-room-old-havana.jpg?width=300
+
+http://dbpedia.org/resource/Casino_hotel
+A casino hotel is an establishment consisting of a casino with temporary lodging provided in an on-premises hotel. Customers receive the benefits of both gambling facilities and lodging. Since the casino and hotel are located on the same premises, a gambler's necessities can be provided for in one location. Casino hotels can be significant employers in an area; in 2009 in Atlantic City, Local 54 of the Hotel Employees and Restaurant Employees Union represented 22,000 casino hotel workers.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/MandalayBay2010.jpg?width=300
+
+http://dbpedia.org/resource/Ryokan_(inn)
+A ryokan (旅館) is a type of traditional Japanese inn that typically features tatami-matted rooms, communal baths, and other public areas where visitors may wear yukata and talk with the owner. Ryokan have existed since the eighth century A.D. during the Keiun period, which is when the oldest hotel in the world, Nishiyama Onsen Keiunkan, was created in 705 A.D. Another old ryokan called Hōshi Ryokan was founded in 718 A.D. and was also known as the world's second oldest hotel. Such inns also served travelers along Japan's highways.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Tamatsukuri_onsen_yado02s3648.jpg?width=300
+
+http://dbpedia.org/resource/Single_room_occupancy
+Single room occupancy (more commonly abbreviated to SRO) is a form of housing that is typically aimed at residents with low or minimal incomes who rent small, furnished single rooms with a bed, chair, and sometimes a small desk. SRO units are rented out as permanent residence and/or primary residence to individuals, within a multi-tenant building where tenants share a kitchen, toilets or bathrooms. SRO units range from 7 to 13 square metres (80 to 140 sq ft). In some instances, contemporary units may have a small refrigerator, microwave, or sink.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/HugoHotelAt6thAndHowardStreet.jpg?width=300
+
+http://dbpedia.org/resource/Condo_hotel
+A condo hotel, also known as a condotel, hotel condo or a contel, is a building which is legally a condominium but which is operated as a hotel, offering short term rentals, and which maintains a front desk. Condo hotels are typically high-rise buildings developed and operated as luxury hotels, usually in major cities and resorts. These hotels have condominium units which allow someone to own a full-service vacation home. When they are not using this home, they can leverage the marketing and management done by the hotel chain to rent and manage the condo unit as it would any other hotel room.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Trump_int1.jpg?width=300
+
+http://dbpedia.org/resource/Hotelship
+A hotelship is a passenger ship which is used for a short period as a hotel. A botel or boatel is a boat that serves as a hotel or hostel currently there are few permanent hotel ships. The word is a portmanteau of boat and hotel. Botels may range from small or larger purpose-built or converted boats or other watercraft, to converted ships. They may be permanently moored or grounded, or spend part of the year taking guests on tours. Alexander von Humboldt (ship) was built in the early 1900s, and after century of sailing the seas was converted to botel floating in Bremen.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Jungfernfahrt_der_Amadeus_Diamond.jpg?width=300
+
+http://dbpedia.org/resource/Choultry
+Choultry is a resting place, an inn or caravansary for travelers, pilgrims or visitors to a site, typically linked to Buddhist, Jain and Hindu temples. They are also referred to as chottry, choultree, chathra, choltry, chowry, chawari, chawadi, choutry, chowree or tschultri. This term is more common in South India, Central India and West India, while in North India similar facilities are called Dharmshalas. They are known as a chatra, satram, chatram or dharmasala in eastern regions of India. The choultry concept and infrastructure in South Asia dates back to at least the 1st millennium, according to epigraphical evidence such as stone and copper plate inscriptions.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/1792_painting_of_a_Hindu_temple_and_choultry_(a_travellers'_rest_house),_Binjaveram_Tinnevelly_district,_Tamil_Nadu_India.jpg?width=300
+
+http://dbpedia.org/resource/Pension_(lodging)
+A pension (UK: /ˈpɒ̃sjɒ̃/, US: /pɒnˈsjoʊn/; French: [pɑ̃sjɔ̃]) is a type of guest house or boarding house. This term is typically used in Continental European countries, in areas of North Africa and the Middle East that formerly had large European expatriate populations, and in some parts of South America such as Brazil and Paraguay. Pensions can also be found in South Korea, Japan, and the Philippines.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Gosau_Pension_Kirchenwirt_1.jpg?width=300
+
+http://dbpedia.org/resource/Gasthaus
+A Gasthaus (also called Gasthof, Landhaus, or Pension) is a German-style inn or tavern with a bar, a restaurant, banquet facilities and hotel rooms for rent. Gasthäuser are typically found in smaller towns and are often family-owned. It is common for three generations of a family to work together in such an establishment, and many have been owned by the same family for generations.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Gasthaus_Jagasitz.jpg?width=300
+
+http://dbpedia.org/resource/Guest_house
+A guest house (also guesthouse) is a kind of lodging. In some parts of the world (such as for example the Caribbean), guest houses are a type of inexpensive hotel-like lodging. In still others, it is a private home which has been converted for the exclusive use of lodging. The owner usually lives in an entirely separate area within the property and the guest house may serve as a form of lodging business. This type of accommodation presents some benefits such as: 
+* Personalized attention 
+* Healthy and homemade food 
+* Quietness 
+* Inexpensiveness@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Altmõisa_külalistemaja.jpg?width=300
+
+http://dbpedia.org/resource/Hostel
+A hostel is a form of low-cost, short-term shared sociable lodging where guests can rent a bed, usually a bunk bed in a dormitory, with shared use of a lounge and sometimes a kitchen. Rooms can be mixed or single-sex and have private or shared bathrooms. Private rooms may also be available, but the property must offer dormitories to be considered a hostel. Hostels are popular forms of lodging for backpackers, cycle tourists, and gap year travelers. They are part of the sharing economy. Benefits of hostels include lower costs and opportunities to meet people from all over the world, find travel partners, and share travel ideas. Some hostels, such as Zostel in India or Hostelling International, cater to a niche market of travelers. For example, one hostel might feature in-house social gather@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Hostel_Dormitory.jpg?width=300
+
+http://dbpedia.org/resource/Hotel_barge
+A hotel barge (fr. péniche hôtel) is a barge that has been built or converted to serve as a hotel or other kind of lodging. Hotel barges are generally found on rivers and canals in Europe, and may be used for river cruises or permanently moored in one place.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Prosperite_Barge.jpg?width=300
+
+http://dbpedia.org/resource/Apartment_hotel
+An apartment hotel or aparthotel (also residential hotel, or extended-stay hotel) is a serviced apartment complex that uses a hotel-style booking system. It is similar to renting an apartment, but with no fixed contracts and occupants can \"check out\" whenever they wish, subject to the applicable minimum length of stay imposed by the company.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Southmoor_Apartment_Hotel.jpg?width=300
+
+http://dbpedia.org/resource/Inn
+Inns are generally establishments or buildings where travelers can seek lodging, and usually, food and drink. Inns are typically located in the country or along a highway; before the advent of motorized transportation they also provided accommodation for horses.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Roadside-inn-American-scenery.jpeg?width=300
+
+http://dbpedia.org/resource/Internet_café
+An Internet café also known as a cybercafé is a café (or a convenience store or a fully dedicated Internet access business) that provides Internet access to the public. The fee for using a computer is generally charged as a time-based rate. The first Internet café was opened in South Korea.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Internet_cafe_golden_princess.jpg?width=300
+
+http://dbpedia.org/resource/Turbaza
+A Turbaza (Russian: Турбаза, Ukrainian: Турбаза; also пансионат) is a holiday accommodation, a type of tourist camp or tourist base that arose in the Soviet era and is still common in the post-Soviet countries. Turbazas are commonly leased-out to groups or firms renting the entire facility to provide holiday accommodation for their members or employees. They are generally rustic, located in rural areas that offer outdoor recreation. Dining, and often sleeping, is accommodated in a large, open, common area.@en
+http://commons.wikimedia.org/wiki/Special:FilePath/Ukraine-Carpathian_Mountains-Chornohora_Range-Hotel.jpg?width=300
+
